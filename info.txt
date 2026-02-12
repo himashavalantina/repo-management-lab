@@ -1,0 +1,1 @@
+This repository demonstrates Git and GitHub/GitLab workflow for Lab 03, including branching, merging, and conflict resolution.
